@@ -32,15 +32,16 @@ header {
 
 .hero {
     display: flex;
+    flex-direction: row;
     color: #707E33;
     padding: 100px 0 0 30%;
     font-size: x-large;
 
 }
-/* 
-.hero-icon img {
 
-} */
+.hero-icon img {
+width : 50px;
+}
 
 footer {
     position: absolute;
